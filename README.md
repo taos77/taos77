@@ -42,6 +42,16 @@
 
 <br>
 
+### 📊 我的 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rockytkg&show_icons=true&theme=radical" alt="Rockytkg's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockytkg&layout=compact&theme=radical" alt="Top Langs">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockytkg&theme=radical" alt="GitHub Streak">
+</p>
 ### 🌱 我正在学习
 
 <p>
