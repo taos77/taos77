@@ -6,11 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+World!+I'm+taos77+%F0%9F%91%8B;Hacker+%F0%9F%92%BB+%7C+Gamer+%F0%9F%8E%AE+%7C+Dreamer+%F0%9F%8C%9F" alt="Typing SVG">
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/followers/Rockytkg?style=for-the-badge" alt="GitHub Followers"></a>
-  <a href="https://github.com/Rockytkg"><img src="https://img.shields.io/github/stars/Rockytkg?style=for-the-badge" alt="GitHub Stars"></a>
-  <a href="https://letanml.xyz"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a>
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" height="300" frameBorder="0" class="giphy-embed">
@@ -72,27 +68,8 @@
   </a>
 </p>
 
-### 📊 我的 GitHub 统计
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rockytkg&show_icons=true&theme=radical" alt="Rockytkg's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rockytkg&layout=compact&theme=radical" alt="Top Langs">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rockytkg&theme=radical" alt="GitHub Streak">
-</p>
 
-### 🏆 成就
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rockytkg&color=blueviolet" alt="Profile views">
-</p>
-
-⭐️ From [@Rockytkg](https://github.com/taos77) with 💖
+⭐️ From [taos77](https://github.com/taos77) with 💖
